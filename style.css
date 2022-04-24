@@ -1,0 +1,151 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1 {
+    display: flex;
+}
+.text h1{
+    font-size: 43px;
+    padding-top: 85px;
+}
+.text p {
+    padding-top: 25px;
+}
+
+.left-section {
+    width: 45%;
+    padding: 80px;
+}
+.butt {
+    padding-top: 25px;
+}
+.button {
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 30%;
+}
+/* right-section */
+
+ .right-section {
+    width: 50%;
+    min-height: 100vh;
+    padding: 50px;
+ }
+ .img {
+     padding-top: 25px;
+ }
+ .one h3 {
+    padding-left: 17px;
+    padding-top: 38px;
+ }
+ .line img {
+    padding-left: 28px;
+ }
+ .line p {
+    padding-left: 45px;
+ }
+.one, .line {
+    display: flex;
+}
+
+/* second project */
+
+.section2 {
+    background-color: #F2F2F2;
+    width: 100%;
+}
+.offer {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.items {
+    text-align: center;
+    padding-top: 35px;
+} 
+.offer h1 {
+    font-size: 40px;
+    padding-top: 10px;
+}
+.submit {
+    text-align: end;
+    padding-right: 130px;
+    padding-top: 25px;
+    padding-bottom: 85px;
+}
+.submit a {
+    color: black;
+    text-decoration: none;
+}
+/* Section3 */
+
+.section3 {
+    background-color: #F2F2F2;
+}
+.img-sec {
+    display: flex;
+}
+.tex {
+    width: 80%; 
+    height: 300px; 
+    padding: 50px;
+    border: 50px;
+    color: white;
+    background-color: orangered;
+}
+.tex h1 {
+    padding-top: 55px;
+    font-size: 33px;
+}
+.learn {
+    padding-top: 25px;
+}
+.learn button {
+    width: 30%;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.img-sec2 {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.t20 {
+    padding-left: 150px;
+}
+.img-sec2 p {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+/* Section4 */
+.section4 {
+    align-items: center;
+    width: 100%;
+}
+.we {
+    font-size: 25px;
+    margin-top: 75px;
+    text-align: center;
+}
+.task4 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    justify-content: center;
+}
+.brands {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
